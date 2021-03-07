@@ -12,4 +12,4 @@ Music library of my interests. Music genres:
 Currently, this repo only support =MIDI= files.
 
 ** Index
-For music index, please refer to the [[index file][./index.org]].
+For music index, please refer to the [[./index.org][index file]].
