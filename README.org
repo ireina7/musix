@@ -2,7 +2,7 @@
 #+Author: Ireina7
 #+Date:   <2021-03-07 Sun>
 
-[[./imgs/earphones.jpg][cover]]
+[[./imgs/earphones.jpg]]
 
 ** About
 Music library of my interests. Music genres:
