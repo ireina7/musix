@@ -2,12 +2,15 @@
 #+Author: Ireina7
 #+Date:   <2021-03-07 Sun>
 
+[[./imgs/earphones.jpg][cover]]
+
 ** About
 Music library of my interests. Music genres:
 - Classic
 - Jazz & Blues
 - Metal
 - ACG
+- Not classified
 
 Currently, this repo only support =MIDI= files.
 
