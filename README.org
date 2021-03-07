@@ -7,11 +7,7 @@
 
 ** About
 Music library of my interests. Music genres:
-- Classic
-- Jazz & Blues
-- Metal
-- ACG
-- Not classified
+=Classic=, =Jazz & Blues=, =Metal=, =ACG=.
 
 Currently, this repo only support =MIDI= files.
 
