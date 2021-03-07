@@ -1,0 +1,15 @@
+#+Title:  Musix
+#+Author: Ireina7
+#+Date:   <2021-03-07 Sun>
+
+** About
+Music library of my interests. Music genres:
+- Classic
+- Jazz & Blues
+- Metal
+- ACG
+
+Currently, this repo only support =MIDI= files.
+
+** Index
+For music index, please refer to the [[index file][./index.org]].

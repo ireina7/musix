@@ -1,0 +1,8 @@
+#+Title:  Musix Index
+#+Author: Ireina7
+#+Date:   <2021-03-07 Sun>
+
+* Classic
+* Jazz & Blues
+* Metal
+* ACG
